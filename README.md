@@ -1,4 +1,4 @@
-Hi! I'm Sam **(she/her)**, a student at Hofstra University majoring in Computer Science and Mathematics and planning to graduate in May 2027.
+👋 Hi! I'm Sam **(she/her)**, a student at Hofstra University majoring in Computer Science and Mathematics and planning to graduate in May 2027.
 -
 
 I'm interested in machine learning, artificial intelligence, and data science and would like to work in one of these three disciplines. I will begin a year-long paid fellowship in May with Break Through Tech, a non-profit started at Cornell to give female and non-binary students appropriate skills for technology-based careers.
