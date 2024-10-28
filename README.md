@@ -1,16 +1,16 @@
 # 👋🏻 Hi! I'm Samantha Nadler!
 ### Sophomore at Hofstra University studying Computer Science and Mathematics <br> Aspiring Data Scientist and Sports Analytics Enthusiast
 
-## 🚗 Featured Project
-### Predicting Auto Claims Severity
+## Featured Project
+### 🚗 Predicting Auto Claims Severity
 (description of AI Studio project with Allstate)
 
 ## Other Projects
 
-### Analyzing Common Categories in Connections
+### 💜 Analyzing Purple Categories in Connections
 (description of my MATH 137 final project)
 
-### Airbnb Superhost Classification
+### 🏡 Airbnb Superhost Classification
 (description of Airbnb classification project from summer course)
 
 ## Contact Me!
