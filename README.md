@@ -1,5 +1,5 @@
 # 👋🏻 Hi! I'm Samantha Nadler!
-### Sophomore at Hofstra University studying Computer Science and Mathematics <br> Aspiring Data Scientist and Sports Analytics Enthusiast
+### 👩🏻‍💻 Sophomore at Hofstra University studying Computer Science and Mathematics <br> ⚾ Aspiring Data Scientist and Sports Analytics Enthusiast
 
 ## Featured Project
 ### 🚗 [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
