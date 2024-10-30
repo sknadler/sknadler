@@ -14,7 +14,7 @@ This project analyzes the impact of virtual reality on the improvement of educat
 
 Virtual reality in the classroom can provide students with hands-on experience through simulations relevant to their field of study, regardless of their chosen discipline. Medical schools and facilities offer virtual reality training to understand the human body and practice surgical techniques not on human subjects. Engineering and architecture students can view their designs and analyze their functionality and aesthetics in a virtual environment, not needing to use physical material to test their ideas. Art students can use virtual reality to create 3D models and draw and paint in 3D.
 
-### 🏡 [Airbnb Superhost Classification]("https://github.com/samanthanadler/airbnb-superhost-classification" target="_blank")
+### 🏡 [Airbnb Superhost Classification](https://github.com/samanthanadler/airbnb-superhost-classification)
 This project uses data of NYC Airbnb listings with a goal to predict if an Airbnb host is a superhost.
 
 A Superhost is an Airbnb host who goes above and beyond to provide excellent hospitality to their clients. Superhosts must host at least 10 reservations and receive high ratings from their clients to be eligible for their evaluation. The criteria featured in the dataset used in this project contains information that correlate to a host's probability of being a Superhost, including host response rate, number of reviews, and cleanliness of the Airbnb.
