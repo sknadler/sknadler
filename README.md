@@ -9,7 +9,7 @@ It can take months to know the final cost to insurance companies like Allstate f
 
 ## Other Projects
 
-### 🥽 Understanding VR Usage in Various Fields of Education
+### 🥽 [Understanding VR Usage in Various Fields of Education](https://github.com/samanthanadler/vr-usage-in-education)
 This project analyzes the impact of virtual reality on the improvement of education while taking special interest in the students’ field of study.
 
 Virtual reality in the classroom can provide students with hands-on experience through simulations relevant to their field of study, regardless of their chosen discipline. Medical schools and facilities offer virtual reality training to understand the human body and practice surgical techniques not on human subjects. Engineering and architecture students can view their designs and analyze their functionality and aesthetics in a virtual environment, not needing to use physical material to test their ideas. Art students can use virtual reality to create 3D models and draw and paint in 3D.
