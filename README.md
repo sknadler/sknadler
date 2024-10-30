@@ -20,9 +20,8 @@ This project uses data of NYC Airbnb listings with a goal to predict if an Airbn
 A Superhost is an Airbnb host who goes above and beyond to provide excellent hospitality to their clients. Superhosts must host at least 10 reservations and receive high ratings from their clients to be eligible for their evaluation. The criteria featured in the dataset used in this project contains information that correlate to a host's probability of being a Superhost, including host response rate, number of reviews, and cleanliness of the Airbnb.
 
 ## Contact Me!
-- 📧 Email: nadler.2004@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/nadler-data-science/
-- 🕸️ Website: samanthanadler.github.io/
+- 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/nadler-data-science/](https://www.linkedin.com/in/nadler-data-science/)
 
 
 <!---
