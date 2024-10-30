@@ -7,7 +7,7 @@
 
 ## Other Projects
 
-### 💜 Analyzing Purple Categories in Connections
+### 🥽 Understanding VR Usage in Various Fields of Education
 (description of my MATH 137 final project)
 
 ### 🏡 Airbnb Superhost Classification
