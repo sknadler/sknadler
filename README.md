@@ -1,6 +1,10 @@
 # 👋🏻 Hi! I'm Samantha Nadler!
 ### 👩🏻‍💻 Sophomore at Hofstra University studying Computer Science and Mathematics <br> ⚾ Aspiring Data Scientist and Sports Analytics Enthusiast
-Welcome to my portfolio! Here I will share some awesome projects in data analysis, data visualization, and machine learning! I've been interested in data science since my senior year of high school, after I declared a "double major" in computer science and mathematics (it's really a singular academic program that behaves like a double major). I'm always teaching myself new skills in data science to build on my foundational knowledge from the [Break Through Tech AI Program](https://www.breakthroughtech.org/), which I am participating in during the 2024-2025 school year. I'm always looking for internship or research opportunities in data science, but my backup plan is to work at my local coding school over the summer. I hope you enjoy my projects and consider putting me on your data science or machine learning radar!
+Welcome to my portfolio! Here I will share some awesome projects in data analysis, data visualization, and machine learning!
+
+I've been interested in data science since my senior year of high school, after I declared a "double major" in computer science and mathematics (it's really a singular academic program that behaves like a double major). I'm always teaching myself new skills in data science to build on my foundational knowledge from the [Break Through Tech AI Program](https://www.breakthroughtech.org/), which I am participating in during the 2024-2025 school year. I'm always looking for internship or research opportunities in data science, but my backup plan is to work at my local coding school over the summer.
+
+I hope you enjoy my projects and consider putting me on your data science or machine learning radar!
 
 ## Featured Project
 ### 🚗 [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
