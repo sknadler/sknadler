@@ -31,6 +31,7 @@ A Superhost is an Airbnb host who goes above and beyond to provide excellent hos
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/nadler-data-science/](https://www.linkedin.com/in/nadler-data-science/)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1SRvC3rk0B8VtAqE8-nOi5fE2y5getBW3/view?usp=sharing) here!
 
 
 <!---
