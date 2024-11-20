@@ -7,7 +7,7 @@ I've been interested in data science since my senior year of high school, after 
 I hope you enjoy my projects and consider putting me on your data science or machine learning radar!
 
 ## 🛠️ Skill Set
-- Programming Languages: Python, Java, JavaScript, C++, R, SQL, HTML/CSS, LaTeX
+- <b>Programming Languages:</b> Python, Java, JavaScript, C++, R, SQL, HTML/CSS, LaTeX
 - Tools and Technologies: Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office
 
 ## Featured Project
