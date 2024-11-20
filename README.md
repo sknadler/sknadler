@@ -8,7 +8,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## 🛠️ Skill Set
 - <b>Programming Languages:</b> Python, Java, JavaScript, C++, R, SQL, HTML/CSS, LaTeX
-- Tools and Technologies: Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office
+- <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office
 
 ## Featured Project
 ### 🚗 [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
