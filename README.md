@@ -11,7 +11,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-
+### 🧢 Analyzing At-Bat Trends for 2024 MLB Silver Slugger Award Winners
 Stay tuned!
 
 ## Other Projects
