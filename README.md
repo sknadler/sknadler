@@ -29,7 +29,7 @@ Virtual reality in the classroom can provide students with hands-on experience t
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/nadler-data-science/](https://www.linkedin.com/in/nadler-data-science/)
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1SRvC3rk0B8VtAqE8-nOi5fE2y5getBW3/view?usp=sharing)!
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1y_7F0jc4c7Zi8zBey72tuRF1h6mhj1uO/view?usp=sharing)!
 - ✍🏻 Check out my blog [here](https://medium.com/@samanthanadler)!
 
 
