@@ -11,8 +11,10 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 🧢 Analyzing At-Bat Trends for 2024 MLB Silver Slugger Award Winners
-Stay tuned!
+### 🧢 [Analyzing At-Bat Trends for 2024 MLB Silver Slugger Award Winners](https://github.com/samanthanadler/batting-trends-in-silver-sluggers)
+This project uses 2024 MLB batting data compiled from MLB's Statcast technology to analyze common trends in batting behavior between the 2024 Silver Slugger Award winners.
+
+The Silver Slugger Award is awarded to twenty MLB players annually, with the first awards being issued in 1980 and voted on by MLB coaching staff members unable to vote for representatives for their own team. While most voters consider batting average, slugging percentage, and on-base percentage as the most important metrics to determine each winner, the pitcher’s behavior towards each batter’s at-bats could play a part in determining newer metrics for a player’s offensive performance. This project determines if Silver Slugger winners tended to have "easier" at-bats compared to skew their offensive performance and considers factors including initial and final pitch locations.
 
 ## Other Projects
 
