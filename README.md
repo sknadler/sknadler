@@ -12,7 +12,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## What I'm Currently Working On
 ### 🧢 [Analyzing Player Performance of MLB Silver Slugger Award Finalists](https://github.com/samanthanadler/batting-trends-in-silver-sluggers)
-This project uses 2024 MLB batting data compiled from MLB's Statcast technology to analyze common trends in batting behavior between the 2024 Silver Slugger Award winners.
+This project uses 2024 MLB batting data compiled from MLB's Statcast technology to compare the batting behavior of Silver Slugger Award winners and their runners-up.
 
 The Silver Slugger Award is awarded to twenty MLB players annually, with the first awards being issued in 1980 and voted on by MLB coaching staff members unable to vote for representatives for their own team. While most voters consider batting average, slugging percentage, and on-base percentage as the most important metrics to determine each winner, the pitcher’s behavior towards each batter’s at-bats could play a part in determining newer metrics for a player’s offensive performance. This project determines if Silver Slugger winners tended to have "easier" at-bats compared to skew their offensive performance and considers factors including initial and final pitch locations.
 
