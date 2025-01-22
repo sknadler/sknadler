@@ -11,8 +11,8 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### Health-Related Data Competition (TBD)
-For the spring semester of their AI Program, Break Through Tech is partnering with the Algorithmic Justice League and Women in Data Science Worldwide for a pair of "datathons" related to women's health. I don't know which I'll be participating in, but it's either a computer vision problem involving skin conditions in various skin types or predicting ADHD diagnoses in female patients given past brain data.
+### 🧴 Equitable AI for Dermatology
+For the spring semester of their AI Program, Break Through Tech is partnering with the Algorithmic Justice League and Women in Data Science Worldwide for a pair of "datathons" related to women's health. I will be working on a computer vision problem involving skin conditions in various skin types to diversify the data of skin conditions in various patients, so that it is easier for dermatologists to made accurate diagnoses on patients of varying skin types.
 
 ## Other Projects
 
