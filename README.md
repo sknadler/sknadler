@@ -11,8 +11,8 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 🧴 [Equitable AI for Dermatology](https://github.com/wallaweebs/DermatologyAI)
-For the spring semester of their AI Program, Break Through Tech is partnering with the Algorithmic Justice League and Women in Data Science Worldwide for a pair of "datathons" related to women's health. I will be working on a computer vision problem involving skin conditions in various skin types to diversify the data of skin conditions in various patients, so that it is easier for dermatologists to made accurate diagnoses on patients of varying skin types.
+### 🏥 Understanding Trends in Emergency Room Visits (with Harmony Healthcare Long Island)
+This project uses data collected over a one-week period from a Long Island healthcare clinic. The goal of the project is to identify which variables are most predictive of a patient using the emergency room in order to develop strategies to decrease unnecessary emergency room visits either by education or other interventions.
 
 ## Other Projects
 
