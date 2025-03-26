@@ -12,7 +12,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## What I'm Currently Working On
 ### 🏥 Understanding Trends in Emergency Room Visits (with Harmony Healthcare Long Island)
-Language(s) used: R
+Language(s) used: R<br>
 Software(s) used: RStudio
 
 This project uses data collected over a one-week period from a Long Island healthcare clinic. The goal of the project is to identify which variables are most predictive of a patient using the emergency room in order to develop strategies to decrease unnecessary emergency room visits either by education or other interventions.
