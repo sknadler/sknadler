@@ -19,14 +19,14 @@ This project uses data collected over a one-week period from a Long Island healt
 
 ## Other Projects
 
-### ®️ R Projects
-- [Understanding Perception of VR Technology in the Classroom](https://github.com/samanthanadler/vr-usage-in-education)
-
 ### 🐍 Python Projects
 - [Analyzing Player Performance of MLB Silver Slugger Award Finalists](https://github.com/samanthanadler/batting-trends-in-silver-sluggers)
 - [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
 - [Understanding U.S. Wage Gaps with Python Machine Learning Models](https://github.com/samanthanadler/income-prediction)
 - [Model Selection for Logistic Regression: Airbnb Superhost Classificiation](https://github.com/samanthanadler/airbnb-superhost-classification)
+
+### ®️ R Projects
+- [Understanding Perception of VR Technology in the Classroom](https://github.com/samanthanadler/vr-usage-in-education)
 
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
