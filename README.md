@@ -11,7 +11,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 🏥 Understanding Trends in Emergency Room Visits (with Harmony Healthcare Long Island)
+### 🏥 [Understanding Trends in Emergency Room Visits](https://github.com/sknadler/math-138-harmony-healthcare) (with Harmony Healthcare Long Island)
 Language(s) used: R<br>
 Software(s) used: RStudio, Excel
 
