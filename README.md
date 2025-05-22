@@ -11,11 +11,11 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 🏥 [Understanding Trends in Emergency Room Visits](https://github.com/sknadler/math-138-harmony-healthcare) (with Harmony Healthcare Long Island)
-Language(s) used: R<br>
-Software(s) used: RStudio, Excel
+### 👯‍♀️ [Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks]
+Language(s) used: Python<br>
+Software(s) used: Visual Studio Code, Google Colab
 
-This project uses data collected over a one-week period from a Long Island healthcare clinic. The goal of the project is to identify which variables are most predictive of a patient using the emergency room in order to develop strategies to decrease unnecessary emergency room visits either by education or other interventions.
+[project description]
 
 ## Other Projects
 
@@ -26,6 +26,7 @@ This project uses data collected over a one-week period from a Long Island healt
 - [Model Selection for Logistic Regression: Airbnb Superhost Classificiation](https://github.com/samanthanadler/airbnb-superhost-classification)
 
 ### ®️ R Projects
+- [Identifying Patient Features Predictive of Emergency Department Use](https://github.com/sknadler/math-138-harmony-healthcare) (with Harmony Healthcare Long Island)
 - [Understanding Perception of VR Technology in the Classroom](https://github.com/samanthanadler/vr-usage-in-education)
 
 ## Contact Me!
