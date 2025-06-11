@@ -37,6 +37,11 @@ Drawing from real data sets in Major League Baseball (MLB), the National Basketb
 - [Identifying Patient Features Predictive of Emergency Department Use](https://github.com/sknadler/math-138-harmony-healthcare) (with Harmony Healthcare Long Island)
 - [Understanding Perception of VR Technology in the Classroom](https://github.com/samanthanadler/vr-usage-in-education)
 
+### 🏫 Professional Development Courses
+- University of Michigan: Sports Performance Analytics Specialization (audited)
+- Stanford University: Statistical Learning with R (audited)
+- Cornell University: Machine Learning Foundations (certificate)
+
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/nadler-data-science/](https://www.linkedin.com/in/nadler-data-science/)
