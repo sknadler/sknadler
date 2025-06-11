@@ -7,8 +7,8 @@ I've been interested in data science since my senior year of high school, after 
 I hope you enjoy my projects and consider putting me on your data science or machine learning radar!
 
 ## 🛠️ Skill Set
-- <b>Programming Languages:</b> Python, R, Java, JavaScript, C++, SQL, HTML/CSS, LaTeX
-- <b>Tools and Technologies:</b> Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
+- **Programming Languages:** Python, R, Java, JavaScript, C++, SQL, HTML/CSS, LaTeX
+- **Tools and Technologies:** Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
 ### 👯‍♀️ Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
