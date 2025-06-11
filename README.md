@@ -1,5 +1,5 @@
 # 👋🏻 Hi! I'm Samantha Nadler (she/her)!
-### 👩🏻‍💻 Junior at Hofstra University studying Computer Science and Mathematics <br> Aspiring Data Scientist and Sports Analytics Enthusiast
+### 👩🏻‍💻 Junior at Hofstra University studying Computer Science and Mathematics <br> 🏀 Aspiring Data Scientist and Sports Analytics Enthusiast
 Welcome to my portfolio! Here I will share some awesome projects in data analysis, data visualization, and machine learning!
 
 I've been interested in data science since my senior year of high school, after I declared a "double major" in computer science and mathematics (it's really a singular academic program that behaves like a double major). I'm always teaching myself new skills in data science to build on my foundational knowledge from the [Break Through Tech AI Program](https://www.breakthroughtech.org/), which I participated in during the 2024-2025 school year. I'd love to work in sports analytics and use my data science skills on one of my favorite teams!
