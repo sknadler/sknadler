@@ -18,7 +18,7 @@ Software(s) used: Visual Studio Code, Google Colab
 This project aims to address critical vulnerabilities in machine learning (ML) classifiers, which are susceptible to adversarial doppelganger (AD) attacks, AD attacks occur when classifiers assign different labels to inputs or stimuli that are indistinguishable to humans. Significant efforts within the ML research community have been devoted to mitigating this vulnerability through robust training, salience-based training, and accuracy-robustness tradeoffs.
 
 ### ⚾ University of Michigan Sports Performance Analytics Specialization (audited)
-Language(s) used: Python
+Language(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
 Sports analytics has emerged as a field of research with increasing popularity propelled, in part, by the real-world success illustrated by the best-selling book and motion picture, Moneyball. Analysis of team and player performance data has continued to revolutionize the sports industry on the field, court, and ice as well as in living rooms among fantasy sports players and online sports gambling.
