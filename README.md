@@ -1,5 +1,5 @@
 # 👋🏻 Hi! I'm Samantha Nadler (she/her)!
-### 👩🏻‍💻 Junior at Hofstra University studying Computer Science and Mathematics <br> ⚾ Aspiring Data Scientist and Sports Analytics Enthusiast
+### 👩🏻‍💻 Junior at Hofstra University studying Computer Science and Mathematics <br> Aspiring Data Scientist and Sports Analytics Enthusiast
 Welcome to my portfolio! Here I will share some awesome projects in data analysis, data visualization, and machine learning!
 
 I've been interested in data science since my senior year of high school, after I declared a "double major" in computer science and mathematics (it's really a singular academic program that behaves like a double major). I'm always teaching myself new skills in data science to build on my foundational knowledge from the [Break Through Tech AI Program](https://www.breakthroughtech.org/), which I participated in during the 2024-2025 school year. I'd love to work in sports analytics and use my data science skills on one of my favorite teams!
@@ -16,6 +16,14 @@ Language(s) used: Python<br>
 Software(s) used: Visual Studio Code, Google Colab
 
 This project aims to address critical vulnerabilities in machine learning (ML) classifiers, which are susceptible to adversarial doppelganger (AD) attacks, AD attacks occur when classifiers assign different labels to inputs or stimuli that are indistinguishable to humans. Significant efforts within the ML research community have been devoted to mitigating this vulnerability through robust training, salience-based training, and accuracy-robustness tradeoffs.
+
+### ⚾ University of Michigan Sports Performance Analytics Specialization (audited)
+Language(s) used: Python
+Software(s) used: Jupyter Notebook
+
+Sports analytics has emerged as a field of research with increasing popularity propelled, in part, by the real-world success illustrated by the best-selling book and motion picture, Moneyball. Analysis of team and player performance data has continued to revolutionize the sports industry on the field, court, and ice as well as in living rooms among fantasy sports players and online sports gambling.
+
+Drawing from real data sets in Major League Baseball (MLB), the National Basketball Association (NBA), the National Hockey League (NHL), the English Premier League (EPL-soccer), and the Indian Premier League (IPL-cricket), this specialization provides exercises on how to construct predictive models to anticipate team and player performance. This specialization also features lessons on replicating the success of Moneyball using real statistical models, using the Linear Probability Model (LPM) to anticipate categorical outcomes variables in sports contests, exploring how teams collect and organize an athlete’s performance data with wearable technologies, and applying machine learning in a sports analytics context.
 
 ## Other Projects
 
