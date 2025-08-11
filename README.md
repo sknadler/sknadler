@@ -11,9 +11,9 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - **Tools and Technologies:** Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 👯‍♀️ Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
+### 👯‍♀️ [Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks](https://github.com/sknadler/aspire-2025-doppelgangers)
 Language(s) used: Python<br>
-Software(s) used: Visual Studio Code, Google Colab
+Software(s) used: Jupyter Notebook, Google Colab
 
 This project aims to address critical vulnerabilities in machine learning (ML) classifiers, which are susceptible to adversarial doppelganger (AD) attacks, AD attacks occur when classifiers assign different labels to inputs or stimuli that are indistinguishable to humans. Significant efforts within the ML research community have been devoted to mitigating this vulnerability through robust training, salience-based training, and accuracy-robustness tradeoffs.
 
