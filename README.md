@@ -8,7 +8,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## 🛠️ Skill Set
 - **Programming Languages:** Python, R, Java, JavaScript, C++, SQL, HTML/CSS, LaTeX
-- **Tools and Technologies:** Git/GitHub, Visual Studio Code, Jupyter Notebook, Linux, RStudio, Microsoft Office, Power BI
+- **Tools and Technologies:** Git/GitHub, Linux, Jupyter Notebook, Visual Studio Code, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
 ### 👯‍♀️ [Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks](https://github.com/sknadler/aspire-2025-doppelgangers)
