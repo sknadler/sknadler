@@ -11,7 +11,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - **Tools and Technologies:** Git/GitHub, Linux, Jupyter Notebook, Visual Studio Code, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 👯‍♀️ [Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks](https://github.com/sknadler/aspire-2025-doppelgangers)
+### 👯‍♀️ Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
 Language(s) used: Python<br>
 Software(s) used: Jupyter Notebook, Google Colab
 
