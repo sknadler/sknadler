@@ -11,23 +11,18 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - **Tools and Technologies:** Git/GitHub, Linux, Jupyter Notebook, Visual Studio Code, RStudio, Microsoft Office, Power BI
 
 ## What I'm Currently Working On
-### 👯‍♀️ Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
-Language(s) used: Python<br>
-Software(s) used: Jupyter Notebook, Google Colab
-
-This project aims to address critical vulnerabilities in machine learning (ML) classifiers, which are susceptible to adversarial doppelganger (AD) attacks, AD attacks occur when classifiers assign different labels to inputs or stimuli that are indistinguishable to humans. Significant efforts within the ML research community have been devoted to mitigating this vulnerability through robust training, salience-based training, and accuracy-robustness tradeoffs.
-
-### ⚾ [University of Michigan Sports Performance Analytics Specialization](https://github.com/sknadler/umich-sports-analytics) (audited)
+### ⚾ [60-Day Baseball Analytics Challenge](https://github.com/sknadler/60-day-baseball-analytics-challenge)
 Language(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
-Sports analytics has emerged as a field of research with increasing popularity propelled, in part, by the real-world success illustrated by the best-selling book and motion picture, Moneyball. Analysis of team and player performance data has continued to revolutionize the sports industry on the field, court, and ice as well as in living rooms among fantasy sports players and online sports gambling.
+For a 60-day period between August 2025 and October 2025, I am challenging myself to create five baseball analytics-related Python projects that combine data analytics with machine learning in a field that I am so passionate about. The following are brief descriptions of each project.
 
-Drawing from real data sets in Major League Baseball (MLB), the National Basketball Association (NBA), the National Hockey League (NHL), the English Premier League (EPL-soccer), and the Indian Premier League (IPL-cricket), this specialization provides exercises on how to construct predictive models to anticipate team and player performance. This specialization also features lessons on replicating the success of Moneyball using real statistical models, using the Linear Probability Model (LPM) to anticipate categorical outcomes variables in sports contests, exploring how teams collect and organize an athlete’s performance data with wearable technologies, and applying machine learning in a sports analytics context.
+- **Does the Home Run Derby Affect a Batter's Swing:** There has been plenty of discourse among baseball writers whether or not participating in the Home Run Derby harms a batter's swing, with many recent arguments against the existence of a "Home Run Derby curse." This project analyzes the batting performances of the eight participants of the 2024 Home Run Derby between season halves by creating a novel Statcast-like metric, the Post-Break Performance Index (PBPI), and visualizing trends in each batter's at-bat outcomes, plate discipline, and swing kinematics.
 
 ## Other Projects
 
 ### 🐍 Python Projects
+- Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks (to be added later)
 - [Analyzing Player Performance of MLB Silver Slugger Award Finalists](https://github.com/samanthanadler/batting-trends-in-silver-sluggers)
 - [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
 - [Understanding U.S. Wage Gaps with Python Machine Learning Models](https://github.com/samanthanadler/income-prediction)
