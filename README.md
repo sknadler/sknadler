@@ -28,7 +28,7 @@ For a 60-day period between August 2025 and October 2025, I am challenging mysel
 ## Other Projects
 
 ### 🐍 Python Projects
-- Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks (to be added later)
+- Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
 - [Analyzing Player Performance of MLB Silver Slugger Award Finalists](https://github.com/samanthanadler/batting-trends-in-silver-sluggers)
 - [Predicting Auto Claims Severity](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project) (with Allstate)
 - [Understanding U.S. Wage Gaps with Python Machine Learning Models](https://github.com/samanthanadler/income-prediction)
