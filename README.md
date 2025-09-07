@@ -12,7 +12,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## What I'm Currently Working On
 ### ☠️ Investigating the Transformation and Degradation of 6PPD in Nature
-Language(s) used: R
+Language(s) used: R<br>
 Software(s) used: RStudio
 
 This data analysis is part of an interdisciplinary research project among Hofstra's engineering, chemistry, and computer science departments and investigates how 6PPD (tire antioxidant) transforms and degrades in nature. One of its transformation products, 6PPD-Q, has been known to be incredibly toxic to aquatic organisms. Using a mass spectrometer to analyze results enables us to measure the concentration of chemical compounds using their masses. One exciting part of this project is trying to find new products that have not been seen in the past, and we are planning to use R's patRoon package to analyze these results. This research project will be on applying this R package to our research and is inspired by [Helmus et al.'s (2025)](https://pubs.acs.org/doi/10.1021/acs.est.4c09121) journal article "Comprehensive Mass Spectrometry Workflows to Systematically Elucidate Transformation Processes of Organic Micropollutants: A Case Study on the Photodegradation of Four Pharmaceuticals".
