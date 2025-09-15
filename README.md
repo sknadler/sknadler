@@ -9,6 +9,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 ## 🛠️ Skill Set
 - **Programming Languages:** Python, R, Java, JavaScript, C++, SQL, HTML/CSS, LaTeX
 - **Tools and Technologies:** Git/GitHub, Linux, Jupyter Notebook, Visual Studio Code, RStudio, Microsoft Office, Power BI
+- **Relevant Coursework:** Probability and Statistics, Statistical Learning, Linear Algebra, Text Mining, Algorithms and Data Structures
 
 ## What I'm Currently Working On
 ### ⚾ [60-Day Baseball Analytics Challenge](https://github.com/sknadler/60-day-baseball-analytics-challenge)
