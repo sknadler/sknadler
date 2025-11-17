@@ -34,7 +34,7 @@ This data analysis is part of an interdisciplinary research project among Hofstr
 
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/nadler-data-science/](https://www.linkedin.com/in/nadler-data-science)
+- 🔗 LinkedIn: [linkedin.com/in/sknadler](https://www.linkedin.com/in/sknadler)
 
 <!---
 samanthanadler/samanthanadler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
