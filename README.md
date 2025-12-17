@@ -12,6 +12,13 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - **Relevant Coursework:** Probability and Statistics, Statistical Learning, Linear Algebra, Text Mining, Foundations of Data Science (Spring 2026), Software Engineering (Spring 2026)
 
 ## What I'm Currently Working On
+
+### 🎬 Multilabel Classification for Movie Genres
+Languages(s) used: Python<br>
+Software(s) used: Jupyter Notebook
+
+Streaming services use genre categorizations to organize movies and recommend new movies to users based on their watch history, but genre classification is not rigid, as a single movie can pull from various genres and be categorized into several distinct genres on streaming services. This project considers both traditional machine learning and deep learning techniques to classify a movie into at least one genre category. After using a multi-label binarizer to convert lists of genres as the training label as a singular output for each movie, I built a naive Bayes model from scratch and also implemented a BERT model from HuggingFace to calculate upwards to a 0.660 F1 score.
+
 ### ☠️ Investigating the Transformation and Degradation of 6PPD in Nature
 Language(s) used: R<br>
 Software(s) used: RStudio
