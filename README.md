@@ -13,7 +13,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## What I'm Currently Working On
 
-### 🎬 Multilabel Classification for Movie Genres
+### 🎬 [Multilabel Classification for Movie Genres](https://github.com/sknadler/movie-classification)
 Languages(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
