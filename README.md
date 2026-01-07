@@ -13,7 +13,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 
 ## Project Highlights
 
-### ⚾ Does the Home Run Derby Affect a Batter's Swing?
+### ⚾ [Does the Home Run Derby Affect a Batter's Swing?](https://github.com/sknadler/hrd-analysis)
 Languages(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
@@ -25,7 +25,7 @@ Software(s) used: RStudio
 
 As my final project for MATH 138 (Mathematical Probability and Statistics II) in the spring 2025 semester, I served as a statistical consultant for [Harmony Healthcare](https://www.harmonyhealthcareli.org/), a Long Island-based healthcare provider serving underprivileged communities, with the goal of identifying patient features which would be predictive of whether a patient would use the emergency room. This information is useful for helping to direct patients to earlier interventions with better outcomes and at a lower cost than using the emergency department. My team was responsible for taking a cleaned version of the raw data and using LASSO regression to determine which factors were most determinant of a patient's decision to readmit themself to the emergency department, then when sent to the validation team, measured a .695 AUC metric on just the selected features.
 
-### 🧢 Analyzing Player Performance of MLB Silver Slugger Award Finalists
+### 🧢 [Analyzing Player Performance of MLB Silver Slugger Award Finalists](https://github.com/sknadler/batting-trends-in-silver-sluggers)
 Language(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
