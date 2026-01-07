@@ -9,8 +9,8 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 ## 🛠️ Skill Set
 - **Languages:** Python (NumPy, Pandas, Matplotlib, Scikit-learn, Keras), R (tidyverse, patRoon), SQL, Java, C++, HTML/CSS
 - **Tools & Technologies:**  Git/GitHub, Jupyter Notebook, RStudio, Microsoft Office, Visual Studio Code, Power BI
-- **Relevant Coursework:** Probability and Statistics, Statistical Learning, Linear Algebra, Text Mining, Foundations of Data Science (Spring 2026), Software Engineering (Spring 2026)
 - **Certifications:** Cornell University - Machine Learning Foundations (Aug. 2024)
+- **Relevant Coursework:** Probability and Statistics, Statistical Learning, Linear Algebra, Text Mining, Foundations of Data Science (Spring 2026), Software Engineering (Spring 2026)
 
 ## Project Highlights
 
