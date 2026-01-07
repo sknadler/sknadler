@@ -34,6 +34,8 @@ This project is a submission to the [Connecticut Sports Analytics Symposium's (C
 
 ## All Projects
 
+All repositories include documentation files to ensure full reproducibility of results.
+
 ### 🐍 Python Projects
 - [Multilabel Classification for Movie Genres](https://github.com/sknadler/movie-classification)
 - [Does the Home Run Derby Affect a Batter's Swing?](https://github.com/sknadler/hrd-analysis)
