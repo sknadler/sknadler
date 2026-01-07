@@ -17,7 +17,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 Languages(s) used: Python<br>
 Software(s) used: Jupyter Notebook
 
-There has been plenty of discourse among baseball writers whether or not participating in the Home Run Derby harms a batter's swing, with many recent arguments against the existence of a "Home Run Derby curse." This project analyzes the batting performances of the eight participants of the 2024 Home Run Derby between season halves by creating a novel Statcast-like metric, the Post-Break Performance Index (PBPI), utilizing weighted versions of Batting Average (BA), Slugging Percentage (SLG), and Isolated Power (ISO) to determine positive or negative changes in offensive production, and visualizing trends in each batter's at-bat outcomes, plate discipline, and swing kinematics.
+There has been plenty of discourse among baseball writers whether or not participating in the Home Run Derby harms a batter's swing, with many recent arguments against the existence of a "Home Run Derby curse." This project analyzes the batting performances of the eight participants of the 2024 Home Run Derby between season halves by creating a novel Statcast-like metric, the Post-Break Performance Index (PBPI), utilizing weighted versions of Batting Average (BA), Slugging Percentage (SLG), and Isolated Power (ISO) to determine positive or negative changes in each batter's offensive production as the season progressed, and visualizing trends in each batter's at-bat outcomes, plate discipline, and swing kinematics.
 
 ### 🏥 [Identifying Patient Features Predictive of Emergency Department Use](https://github.com/sknadler/math-138-harmony-healthcare/tree/main/Feature_Selection)
 Language(s) used: R<br>
