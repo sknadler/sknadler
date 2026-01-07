@@ -36,6 +36,7 @@ This data analysis is part of an interdisciplinary research project among Hofstr
 - [Model Selection for Logistic Regression: Airbnb Superhost Classificiation](https://github.com/sknadler/airbnb-superhost-classification)
 
 ### ®️ R Projects
+- Non-Target Analysis for the Identification of Photochemical Degradation Products
 - [Identifying Patient Features Predictive of Emergency Department Use](https://github.com/sknadler/math-138-harmony-healthcare) (with Harmony Healthcare Long Island)
 - [Understanding Perception of VR Technology in the Classroom](https://github.com/sknadler/vr-usage-in-education)
 
