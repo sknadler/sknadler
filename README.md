@@ -53,6 +53,7 @@ All repositories include documentation files to ensure full reproducibility of r
 ## Contact Me!
 - 📧 Email: [nadler.2004@gmail.com](mailto:nadler.2004@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sknadler](https://www.linkedin.com/in/sknadler)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1Kpj_Wv9SCcxUL9H_LncF2oouSTwFz_Uj/view?usp=sharing)!
 
 <!---
 samanthanadler/samanthanadler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
