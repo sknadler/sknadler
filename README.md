@@ -37,6 +37,7 @@ This project is a submission to the [Connecticut Sports Analytics Symposium's (C
 All repositories include documentation files to ensure full reproducibility of results.
 
 ### 🐍 Python Projects
+- Predicting MLB Pitcher Stamina using Game-Level Stuff Data (in-progress)
 - [Multilabel Classification for Movie Genres](https://github.com/sknadler/movie-classification)
 - [Does the Home Run Derby Affect a Batter's Swing?](https://github.com/sknadler/hrd-analysis)
 - Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
