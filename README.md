@@ -10,7 +10,7 @@ I hope you enjoy my projects and consider putting me on your data science or mac
 - **Languages:** Python (NumPy, Pandas, Matplotlib, Scikit-learn, Keras), R (tidyverse, patRoon), SQL, Java, C++, HTML/CSS
 - **Tools & Technologies:**  Git/GitHub, Jupyter Notebook, RStudio, Microsoft Office, Visual Studio Code, Power BI
 - **Certifications:** Cornell University - Machine Learning Foundations (Aug. 2024)
-- **Relevant Coursework:** Probability and Statistics, Linear Algebra, Foundations of Data Science, Software Engineering, Engineering Math
+- **Relevant Coursework:** Probability and Statistics, Linear Algebra, Foundations of Data Science, Applied Statistical Methods (Fall 2026), Neural Networks and Deep Learning (Fall 2026)
 
 ## Project Highlights
 
@@ -37,7 +37,7 @@ This project is a submission to the [Connecticut Sports Analytics Symposium's (C
 All repositories include documentation files to ensure full reproducibility of results.
 
 ### 🐍 Python Projects
-- Predicting MLB Pitcher Stamina using Game-Level Stuff Data (in-progress)
+- [Predicting MLB Pitcher Stamina using Game-Level Stuff Data](https://github.com/sknadler/mlb-pitcher-stamina)
 - [Multilabel Classification for Movie Genres](https://github.com/sknadler/movie-classification)
 - [Does the Home Run Derby Affect a Batter's Swing?](https://github.com/sknadler/hrd-analysis)
 - Critical Vulnerabilities in Machine Learning Classifiers Susceptible to Adversarial Doppelganger Attacks
